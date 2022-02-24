@@ -18,6 +18,7 @@ android_library {
         "androidx.preference_preference",
         "androidx.appcompat_appcompat",
         "androidx.recyclerview_recyclerview",
+        "zxing-core-1.7"
     ],
 
     resource_dirs: [
