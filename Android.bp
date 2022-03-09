@@ -18,7 +18,8 @@ android_library {
          "androidx.preference_preference",
          "androidx.appcompat_appcompat",
          "androidx.recyclerview_recyclerview",
-         "androidx.viewpager_viewpager"
+         "androidx.viewpager_viewpager",
+         "SettingsLibMainSwitchPreference",
     ],
 
     resource_dirs: ["res"],
