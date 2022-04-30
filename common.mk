@@ -1,4 +1,5 @@
 PRODUCT_PACKAGES += \
+    NavigationBarModeGesturalOverlayFS \
     NoCombinedIconsOverlay
 
 PRODUCT_PACKAGES += \
