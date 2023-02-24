@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2018 The Dirty Unicorns Project
+<!-- Copyright (C) 2019 Havoc-OS
      Copyright (C) 2023 tequilaOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,10 +17,6 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <color name="disabled_text_color">#66000000</color>
 
 </resources>
